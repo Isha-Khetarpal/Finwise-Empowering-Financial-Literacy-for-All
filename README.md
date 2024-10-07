@@ -28,7 +28,7 @@ This project was brought to life by a dedicated team of five:
 - **Aditi Bhadoria** - [GitHub](https://github.com/HEYADITI1)
 - **Kopal Pareek** - [GitHub](https://github.com/Kopal05)
 - **Parisha Aggarwal** - [GitHub](https://github.com/parishaaggarwal)
-- **Sana Mansoori** - [GitHub](https://github.com/sanamaqbool)
+- **Sana Mansoori** - [GitHub]([https://github.com/sanamaqbool](https://github.com/sana-mansoori/sana-mansoori/blob/main/README.md))
 
 ## Installation and Setup
 
